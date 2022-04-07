@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jiri Pakr
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python, C#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me jiripakr@gmail.com
