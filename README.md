@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiri Pakr
-- 👀 I’m interested in Machine learning, Robotics, Games
+- 👀 I’m interested in Machine learning, Data Science, Automation, Robotics
 - 🌱 I’m currently learning Python, C++, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jiripakr@gmail.com
