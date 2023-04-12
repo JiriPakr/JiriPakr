@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiri Pakr
 - 👀 I’m interested in Machine learning, Web development, Data Science, Automation, Robotics, Optimalization
-- 🌱 I’m currently learning Python, Javascript, C#, Matlab, Bash, Git
+- 🌱 I’m currently learning Python, C++, php, Matlab, Bash, Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jiripakr@gmail.com
